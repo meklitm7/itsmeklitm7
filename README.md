@@ -14,5 +14,12 @@ I'm passionate about growing my skills, building meaningful software, and collab
 ## 📊 GitHub Stats
 
 ![Meklit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meklitm7&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meklitm7&layout=compact&theme=radical)
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/meklit-mulugeta-408816324/)
+- 📧 Email: meklitmulugeta71@gmail.com
+
 
 
