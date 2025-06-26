@@ -11,3 +11,8 @@
 
 I'm passionate about growing my skills, building meaningful software, and collaborating with others. Looking forward to contributing to impactful projects as I keep learning!
 
+## 📊 GitHub Stats
+
+![Meklit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meklitm7&show_icons=true&theme=radical)
+
+
